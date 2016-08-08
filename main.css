@@ -1,20 +1,20 @@
 h1 {
 	margin-top: 20px; 
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
+	font-family: Monospace;
 	font-weight: 300;
 }
 
 h2 {
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
+	font-family: Monospace;
 	font-weight: 300;
 	animation-duration: 2s;
 	animation-delay: 2s;
 }
 
 p {
-	font-family: 'Roboto', sans-serif;
+	font-family: Monospace;
 	font-weight: 300;
 	text-align: center;
 }
@@ -39,3 +39,41 @@ input {
 	text-align: center;
 }
 
+button.link {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+.options-1 {
+	text-align: center;
+}
+
+a {
+	text-align: center;
+	font-weight: 300;
+	color: #859900;
+	cursor: pointer;
+	transition: all 150ms ease;
+	animation-delay: 4s;
+	font-family: Monospace; 
+	font-size: 32px; 
+	line-height: 1.5; 
+}
+
+a:visited {
+	color: #859900; 
+}
+
+a:hover { 
+	color: #111; 
+	text-decoration: underline; 
+
+}
+
+.main {
+	font-family: Monospace; 
+	font-size: 16px; 
+	line-height: 1.5; 
+	font-weight: 300; 
+
+}
