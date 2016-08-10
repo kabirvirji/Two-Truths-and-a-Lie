@@ -1,5 +1,5 @@
 var score = 0;
-document.querySelector("score").innerHTML = score;
+document.getElementById("score").innerHTML = "Score: " + score;
 
 // var optionOne = document.getElementById("correct-option");
 // optionOne.onclick = function() {

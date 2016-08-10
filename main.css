@@ -19,6 +19,13 @@ p {
 	text-align: center;
 }
 
+h4 {
+	font-family: Monospace;
+	font-weight: 300;
+	text-align: center;
+	animation-delay: 5s;
+}
+
 a {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
