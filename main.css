@@ -60,7 +60,6 @@ a {
 	font-weight: 300;
 	color: #859900;
 	cursor: pointer;
-	transition: all 150ms ease;
 	animation-delay: 4s;
 	font-family: Monospace; 
 	font-size: 32px; 
